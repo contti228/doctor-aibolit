@@ -1,1 +1,1 @@
-{"version":2.6, "update":}
+{"version":"2.6", "updatelink":"link"}
