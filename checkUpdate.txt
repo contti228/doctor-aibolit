@@ -1,1 +1,1 @@
-{"version":"2.63", "updatelink":"https://github.com/contti228/doctor-aibolit/blob/main/Doctor%20Aibolit.luac?raw=true"}
+{"version":"2.64", "updatelink":"https://github.com/contti228/doctor-aibolit/blob/main/Doctor%20Aibolit.luac?raw=true"}
